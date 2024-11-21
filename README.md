@@ -104,6 +104,7 @@
 
 ### 게시글 상세
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/4cf3aad1-39e7-4172-9556-cc63607420f8/image.gif' width='60%'></p>
+
 - 게시글 카드를 클릭하면 상세 페이지로 이동합니다.
 - 글 제목과 본문, 사진, 작성자와 작성 시각 그리고 댓글과 좋아요를 확인할 수 있습니다.
 - 글에 첨부 된 사진이 여러장일 경우 슬라이드하여 볼 수 있습니다.
