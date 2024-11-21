@@ -1,5 +1,4 @@
 # index
-- [프로젝트 개요](#프로젝트-개요)
 - [프로젝트명-살까말까](#프로젝트명-살까말까)
 - [페이지 구성](#페이지-구성)
 - [페이지별 레이아웃과 기능](#페이지별-레이아웃과-기능)
@@ -7,7 +6,7 @@
 
 <br><br>
 
-# 프로젝트명 : 살까말까
+# 프로젝트명 살까말까
 
 왜 밖에서는 유용하고 저렴해보였던 물건이 우리 집에만 오면 예쁜 쓰레기가 될까요?
 
@@ -25,7 +24,7 @@
 | [reizvoll](https://github.com/reizvoll)                                         |                         [hyeonjy](https://github.com/hyeonjy)                          | [heftyCornerstone](https://github.com/heftyCornerstone)                                                                        | [hadorable-otter](https://github.com/adorable-otter/new-world)                                                                                                                                                                                                                                                                                                                                                                                                 | [WonYunSun](https://github.com/WonYunSun)                                       |
 | 로고, <br>로그인 기능                                                                  |                                   게시물, 댓글 <br>상세페이지                                    | 검색, 마이페이지, <br>리드미                                                                                                             | 좋아요, 좋아요 목록, <br>댓글 UI                                                                                                                                                                                                                                                                                                                                                                                                                                         | 게시물, 상세페이지, <br>사이드바       
 
-<br><br>                                                     |
+<br><br>
 
 # 기술 스택
 
@@ -39,7 +38,7 @@
 ### 그 외 라이브러리
 - toastify
 - react-hook-form
-- slick-carousel                                                 |
+- slick-carousel
 
 <br><br>
 
@@ -47,21 +46,19 @@
 
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/a0d06574-99a8-401e-8a52-327f05ccfd46/image.png' width='40%'></p>
 
+[와이어프레임 링크](https://www.figma.com/design/1aSF8mxFykYiRjT4XYY4KI/NewsFeed_Project?node-id=0-1&node-type=canvas&t=ON4y1UuHmuRRrF9x-0)
+
 <br><br>
 
 # 페이지별 레이아웃과 기능
 
 ## 비로그인
 
-### 비로그인 레이아웃
-<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/562dcae1-e5c3-46b6-a5c0-b66450b5509e/image.png' width='60%'></p>
-
-<br>
-
 ### 로그인 / 회원 가입
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9c5a699d-c8bc-41ff-9a17-76a477f933db/image.png' width='40%'></p>
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='40%'></p>
 
+- 로그인하지 않은 사용자는 로그인 페이지로 이동됩니다. 로그인 한 사용자만 홈페이지에 접근할 수 있습니다.
 - 로그인 페이지에서 회원 가입, 비밀번호 찾기, 계정 삭제 페이지에 접근할 수 있습니다.
 - 회원가입 시 이메일을 아이디로 사용하며 닉네임과 프로필 사진을 설정할 수 있습니다.
 	- 프로필 사진을 등록하지 않을 시 기본 이미지가 자동 적용됩니다.
@@ -70,10 +67,6 @@
 
 ## 로그인 성공
 ### 기본 레이아웃
-<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/2c668f06-8779-4f1f-b8a6-c37c0ffc827c/image.png' width='60%'></p>
-
-<br>
-
 ### 홈
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/63de1518-39b3-464b-8c31-afd481192e94/image.png' width='60%'></p>
 
@@ -162,9 +155,9 @@
 - [x] 호스팅플랫폼 Vercel 이용, 배포에 적용될 브랜치는 main 브랜치로
 
 ## 도전기능
-- [ ] 로그인, 회원가입 예외 처리
+- [x] 로그인, 회원가입 예외 처리
 - [ ] 소셜 로그인 (구글, 깃헙)
-- [ ] 비밀번호 찾기 기능
+- [x] 비밀번호 찾기 기능
 - [ ] 팔로우, 팔로워 기능
 - [ ] 팔로우한 상대 게시물 확인 기능
 - [x] 댓글 기능
@@ -172,7 +165,7 @@
 - [x] 반응형 웹 구현
 - [ ] 무한스크롤 기능
 - [ ] 더보기 기능
-- [ ] memo, useMemo, useCallback을 이용한 렌더링 최적화 적용
+- [x] memo, useMemo, useCallback을 이용한 렌더링 최적화 적용
 - [ ] Vercel 에 배포한 뒤 커스텀 도메인 적용 (500원 정도하는 저렴한 도메인 권장)
 
 <br>
