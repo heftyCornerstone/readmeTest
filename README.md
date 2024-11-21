@@ -192,14 +192,18 @@
 ## 기능 구현
 
 #### 필수 요구사항 구현에 관한 특이사항
-* 내 게시물 보기 기능은 마이페이지가 아닌 `내 글` 페이지로 구현
-* 전역상태관리를 위해 `RTK`를 사용
+- 내 게시물 보기 기능은 마이페이지가 아닌 `내 글` 페이지로 구현
+- 전역상태관리를 위해 `RTK`를 사용
 
 #### 로그인 정보 유지
-* 새로고침하거나 브라우저를 닫아도 로그인 정보를 유지하기 위해 `redux-persist`를 사용했습니다.
+- 새로고침하거나 브라우저를 닫아도 로그인 정보를 유지하기 위해 `redux-persist`를 사용했습니다.
+
 #### alret 처리 ([**React-Toastify**](https://fkhadra.github.io/react-toastify/introduction/))
+
 - `React-Toastify`로 사용자 친화적인 성공 또는 에러 메세지를 보여줍니다
+
 #### react-hook-form
 - `react-hook-form`으로 폼 상태를 효율적으로 관리하고 유효성 검사(validation)를 진행합니다
+
 #### slick-carousel
 - `slick-carousel`로 게시글에 첨부된 이미지를 슬라이드 할 수 있도록 만들었습니다.
