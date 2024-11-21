@@ -58,7 +58,7 @@
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9c5a699d-c8bc-41ff-9a17-76a477f933db/image.png' width='40%'></p>
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='40%'></p>
 
-- 로그인하지 않은 사용자는 로그인 페이지로 이동됩니다. 로그인 한 사용자만 홈페이지에 접근할 수 있습니다.
+- 로그인하지 않은 사용자는 로그인 페이지로 이동됩니다. **로그인 한 사용자만 홈페이지에 접근할 수 있습니다.**
 - 로그인 페이지에서 회원 가입, 비밀번호 찾기, 계정 삭제 페이지에 접근할 수 있습니다.
 - 회원가입 시 이메일을 아이디로 사용하며 닉네임과 프로필 사진을 설정할 수 있습니다.
 	- 프로필 사진을 등록하지 않을 시 기본 이미지가 자동 적용됩니다.
@@ -66,7 +66,6 @@
 <br><br>
 
 ## 로그인 성공
-### 기본 레이아웃
 ### 홈
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/63de1518-39b3-464b-8c31-afd481192e94/image.png' width='60%'></p>
 
@@ -79,8 +78,8 @@
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/4cf3aad1-39e7-4172-9556-cc63607420f8/image.gif' width='60%'></p>
 
 - 게시글 카드를 클릭하면 상세 페이지로 이동합니다.
-- 글 제목과 본문, 사진, 작성자와 작성 시각 그리고 댓글과 좋아요를 확인할 수 있습니다.
-- 글에 첨부 된 사진이 여러장일 경우 슬라이드하여 볼 수 있습니다.
+- 글 제목과 본문, 사진, 작성자와 작성 시각 그리고 **댓글과 좋아요**를 확인할 수 있습니다.
+- 글에 첨부 된 사진이 여러장일 경우 **슬라이드**하여 볼 수 있습니다.
 
 #### 그 외 기능
 - 게시글 수정 및 삭제
@@ -173,10 +172,12 @@
 ## 기능 구현
 
 #### 필수 요구사항 구현에 관한 특이사항
+
 - 내 게시물 보기 기능은 마이페이지가 아닌 `내 글` 페이지로 구현
 - 전역상태관리를 위해 `RTK`를 사용
 
 #### 로그인 정보 유지
+
 - 새로고침하거나 브라우저를 닫아도 로그인 정보를 유지하기 위해 `redux-persist`를 사용했습니다.
 
 #### alret 처리 ([**React-Toastify**](https://fkhadra.github.io/react-toastify/introduction/))
