@@ -17,8 +17,7 @@
     + [내 글과 좋아요를 누른 글](#내-글과-좋아요를-누른-글)
     + [글 작성](#글-작성)
     + [마이 페이지](#마이-페이지)
-      - [비밀번호 변경](#비밀번호-변경)
-      - [회원 탈퇴](#회원-탈퇴)
+      - [비밀번호 변경과 회원 탈퇴](#비밀번호-변경과-회원-탈퇴)
 - [요구사항](#요구사항)
   * [필수기능](#필수기능)
   * [도전기능](#도전기능)
@@ -78,6 +77,10 @@
 ### 로그인 / 회원 가입
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9c5a699d-c8bc-41ff-9a17-76a477f933db/image.png' width='40%'></p>
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='40%'></p>
+
+- 로그인 페이지에서 회원 가입, 비밀번호 찾기, 계정 삭제 페이지에 접근할 수 있습니다.
+- 회원가입 시 이메일을 아이디로 사용하며 닉네임과 프로필 사진을 설정할 수 있습니다.
+	- 프로필 사진을 등록하지 않을 시 기본 이미지가 자동 적용됩니다.
 
 <br><br>
 
@@ -147,11 +150,11 @@
 - 비밀번호 변경, 계정 삭제 페이지로 이동하는 버튼이 있습니다.
 - 로그아웃은 마이페이지에서 할 수 있습니다.
 
-#### 비밀번호 변경
+#### 비밀번호 변경과 회원 탈퇴
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/08fda750-eb18-4935-9261-65a7ca1483f4/image.png' width='50%'></p>
-
-#### 회원 탈퇴
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/6f3d4009-0a4c-4f02-ad3c-b780f78ae413/image.png' width='50%'></p>
+
+- 아이디로 사용하고 있는 이메일 주소로 비밀번호 재설정 메일을 보낼 수 있습니다.
 
 <br><br>
 
