@@ -1,4 +1,3 @@
-
 # index
 - [기술 스택](#기술-스택)
 - [팀원](#팀원)
@@ -25,6 +24,8 @@
   * [도전기능](#----)
   * [기능 구현](#-----)
 
+<br><br>
+
 # 기술 스택
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/redux%20persist-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
@@ -32,11 +33,14 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
+<br>
+
 ### 그 외 라이브러리
 - toastify
 - react-hook-form
 - slick-carousel
 
+<br><br>
 
 # 팀원  
 | 임지영 |                                                 김현지                                                 | 박산하 | 박상기 | 원윤선 |     |
@@ -46,17 +50,21 @@
 | 링크  |                                                                                                     |     |     |     |     |
 |     |                                                                                                     |     |     |     |     |
 
-# 프로젝트 개요
+<br><br>
 
+# 프로젝트 개요
 
 # 프로젝트명 : 살까말까
 
 웹사이트 살까말까 소개...
 
+<br><br>
+
 # 페이지 구성
 
+<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/a0d06574-99a8-401e-8a52-327f05ccfd46/image.png' width='40%'></p>
 
-<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/a0d06574-99a8-401e-8a52-327f05ccfd46/image.png' width='50%'></p>
+<br><br>
 
 # 페이지별 레이아웃과 기능
 
@@ -65,14 +73,19 @@
 ### 레이아웃
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/562dcae1-e5c3-46b6-a5c0-b66450b5509e/image.png' width='60%'></p>
 
+<br>
+
 ### 로그인 / 회원 가입
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9c5a699d-c8bc-41ff-9a17-76a477f933db/image.png' width='40%'></p>
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='50%'></p>
 
+<br><br>
 
 ## 로그인 성공
 ### 레이아웃
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/2c668f06-8779-4f1f-b8a6-c37c0ffc827c/image.png' width='60%'></p>
+
+<br>
 
 ### 홈
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/63de1518-39b3-464b-8c31-afd481192e94/image.png' width='60%'></p>
@@ -80,27 +93,35 @@
 - 홈 페이지에서 게시글을 최신순으로 볼 수 있습니다.
 - 내비게이션 바를 이용해 다른 페이지로 접근 가능합니다.
 
+<br>
+
 ### 게시글 상세
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/4cf3aad1-39e7-4172-9556-cc63607420f8/image.gif' width='60%'></p>
 - 게시글 카드를 클릭하면 상세 페이지로 이동합니다.
 - 글 제목과 본문, 사진, 작성자와 작성 시각 그리고 댓글과 좋아요를 확인할 수 있습니다.
 - 글에 첨부 된 사진이 여러장일 경우 슬라이드하여 볼 수 있습니다.
 
-**그 외 기능**
+#### 그 외 기능
 - 게시글 수정 및 삭제
 - 좋아요와 좋아요 취소
 - 댓글 쓰기
 	- 댓글 게시자는 수정 및 삭제 가능
+
+<br>
 
 #### 게시글 수정 및 삭제
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/db63c66c-ede2-4d89-9897-83c840625f3c/image.gif' width='60%'></p>
 
 - 자신이 작성한 게시글만 수정 및 삭제할 수 있습니다.
 
+<br>
+
 ### 검색
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/e204937d-fd3a-4a49-bf99-399e54c17269/image.gif' width='60%'></p>
 
 - 실시간 검색이 가능하며, 오래된 순서와 최신 순서로 검색 결과를 정렬할 수 있습니다.
+
+<br>
 
 ### 내 글 / 좋아요를 누른 글
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/b56a5d1a-5c19-4310-8ac0-8059a1edd787/image.gif' width='60%'></p>
@@ -108,12 +129,16 @@
 
 - 내가 작성한 글과 좋아요를 누른 글을 확인할 수 있습니다.
 
+<br>
+
 ### 글 작성
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/8c964b80-1db1-4584-aea6-9b2ebd87e308/image.gif' width='60%'></p>
 
 - 작성글에는 이미지를 최대 3장까지 삽입할 수 있습니다.
 - 글자 수는 10자 이상이어야 합니다.
 - 글 작성을 완료하면 내가 작성한 글의 상세 페이지로 리디렉션됩니다.
+
+<br>
 
 ### 마이 페이지
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9eb244d8-673e-4ea9-9ce6-b1237f5d377c/image.png' width='60%'></p>
@@ -128,6 +153,7 @@
 #### 회원 탈퇴
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/6f3d4009-0a4c-4f02-ad3c-b780f78ae413/image.png' width='50%'></p>
 
+<br><br>
 
 # 요구사항
 
@@ -160,6 +186,8 @@
 - [ ] 더보기 기능
 - [ ] memo, useMemo, useCallback을 이용한 렌더링 최적화 적용
 - [ ] Vercel 에 배포한 뒤 커스텀 도메인 적용 (500원 정도하는 저렴한 도메인 권장)
+
+<br>
 
 ## 기능 구현
 
