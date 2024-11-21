@@ -77,7 +77,7 @@
 
 ### 로그인 / 회원 가입
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/9c5a699d-c8bc-41ff-9a17-76a477f933db/image.png' width='40%'></p>
-<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='50%'></p>
+<p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/91089aec-2c64-4f9f-ba17-7a2b27e5987a/image.png' width='40%'></p>
 
 <br><br>
 
