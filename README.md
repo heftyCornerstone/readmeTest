@@ -70,7 +70,7 @@
 
 ## 비로그인
 
-### 레이아웃
+### 비로그인 레이아웃
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/562dcae1-e5c3-46b6-a5c0-b66450b5509e/image.png' width='60%'></p>
 
 <br>
@@ -82,7 +82,7 @@
 <br><br>
 
 ## 로그인 성공
-### 레이아웃
+### 기본 레이아웃
 <p align='center'><img src='https://velog.velcdn.com/images/heftycornerstone/post/2c668f06-8779-4f1f-b8a6-c37c0ffc827c/image.png' width='60%'></p>
 
 <br>
