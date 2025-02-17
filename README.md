@@ -127,6 +127,7 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 - **Supabase 메시지 구독**을 통해 읽음 처리 기능 추가
 
 <br>
+<br>
 
 # 📱 기능 구현 영상
 
@@ -142,7 +143,7 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | ![Image](https://github.com/user-attachments/assets/5344cb36-23a3-4b4f-ae86-63b83f0c7b8e) | ![Image](https://github.com/user-attachments/assets/673ce466-9deb-480e-aff2-153fb40ae15d) | ![Image](https://github.com/user-attachments/assets/9deceef3-6b82-4f5c-b7a8-7b9a20d58777) | ![Image](https://github.com/user-attachments/assets/fd4c2eea-ebad-4bd3-9ab3-220b923c8d11) |
 
-<br>
+<br><br>
 
 # ⚙️ 기술 스택
 
@@ -180,7 +181,7 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 - vercel을 통한 배포
 - sentry를 통한 에러 추적 및 모니터링
 
-<br>
+<br><br>
 
 # 💣 트러블 슈팅
 
@@ -255,7 +256,7 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 
 </details>
 
-<br>
+<br><br>
 
 # 🌳 프로젝트 구조
 
