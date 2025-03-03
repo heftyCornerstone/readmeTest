@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 | ----------------------------- | -------------------------------- | ----------------------------- | --------------------------------------- | ------------------------------------------ |
 | [@adorable-otter](https://github.com/adorable-otter) | [@heftyCornerstone](https://github.com/heftyCornerstone) | [@minhoo](https://github.com/Kminhoo) | [@euncloud](https://github.com/euncloud) | [@WonYunSun](https://github.com/WonYunSun) |
 | 팀장                             | 부팀장                                         | 팀원                            | 팀원                          | 팀원                              |
-|                                  |홈, 모임 관리, 멤버 목록, <br>모임 가입 신청, 알림|                                 |                               |                                   |
+|인증/인가, 일정 캘린더, <br> react native app|홈, 모임 관리, 멤버 목록, <br>모임 가입 신청, 알림|        댓글, 채팅           | 모임방, 게시글CRUD, 사진첩, <br> 공용 컴포넌트, 게시글 검색 |모임 생성, 모임 일정, <br> 공용 컴포넌트  |
 
 <br><br>
 
