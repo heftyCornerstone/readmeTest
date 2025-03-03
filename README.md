@@ -41,8 +41,8 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 | 박상기                         | 박산하                            | 김민후                         | 박은영                                   | 원윤선                                     |
 | ----------------------------- | -------------------------------- | ----------------------------- | --------------------------------------- | ------------------------------------------ |
 | [@adorable-otter](https://github.com/adorable-otter) | [@heftyCornerstone](https://github.com/heftyCornerstone) | [@minhoo](https://github.com/Kminhoo) | [@euncloud](https://github.com/euncloud) | [@WonYunSun](https://github.com/WonYunSun) |
-| 팀장                              | 부팀장                                     | 팀원                            | 팀원                          | 팀원                              |
-|                                  |홈, 모임 관리, 멤버 목록, <br>모임 가입 신청     |                               |                               |                                   |
+| 팀장                             | 부팀장                                         | 팀원                            | 팀원                          | 팀원                              |
+|                                  |홈, 모임 관리, 멤버 목록, <br>모임 가입 신청, 알림|                                 |                               |                                   |
 
 <br><br>
 
