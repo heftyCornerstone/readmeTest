@@ -11,7 +11,6 @@
 5. [기능 구현 영상](#-기능-구현-영상)
 6. [기술 스택](#️-기술-스택)
 7. [트러플 슈팅](#-트러블-슈팅)
-8. [프로젝트 구조](#-프로젝트-구조)
 
 <br>
 
@@ -257,85 +256,3 @@ https://github.com/user-attachments/assets/3f91078b-3812-4c40-9d68-244093e007be
 </details>
 
 <br><br>
-
-# 🌳 프로젝트 구조
-
-```bash
-📦src
- ┣ 📂app
- ┃ ┣ 📂api
- ┃ ┃ ┣ 📂auth
- ┃ ┃ ┗ 📂post
- ┃ ┣ 📂chat
- ┃ ┃ ┣ 📂[id]
- ┃ ┃ ┗ 📂_components
- ┃ ┣ 📂fonts
- ┃ ┣ 📂groups
- ┃ ┃ ┣ 📂new
- ┃ ┃ ┃ ┗ 📂_components
- ┃ ┃ ┃   ┗ 📂stepComponents
- ┃ ┃ ┗ 📂[id]
- ┃ ┃   ┣ 📂management
- ┃ ┃   ┃ ┣ 📂members
- ┃ ┃   ┃ ┃ ┗ 📂_components
- ┃ ┃   ┃ ┗ 📂_components
- ┃ ┃   ┣ 📂posts
- ┃ ┃   ┃ ┣ 📂new
- ┃ ┃   ┃ ┃ ┗ 📂_components
- ┃ ┃   ┃ ┗ 📂[postId]
- ┃ ┃   ┃   ┗ 📂edit
- ┃ ┃   ┃     ┗ 📂_components
- ┃ ┃   ┣ 📂schedules
- ┃ ┃   ┃ ┣ 📂new
- ┃ ┃   ┃ ┣ 📂[scheduleid]
- ┃ ┃   ┃ ┗ 📂_components
- ┃ ┃   ┗ 📂_components
- ┃ ┣ 📂join
- ┃ ┃ ┗ 📂[id]
- ┃ ┃   ┗ 📂_components
- ┃ ┣ 📂login
- ┃ ┃ ┗ 📂_components
- ┃ ┣ 📂mypage
- ┃ ┃ ┗ 📂_components
- ┃ ┣ 📂notifications
- ┃ ┃ ┗ 📂_components
- ┃ ┣ 📂signup
- ┃ ┃ ┣ 📂success
- ┃ ┃ ┃ ┗ 📂_components
- ┃ ┃ ┗ 📂_components
- ┃ ┗ 📂_components
- ┣ 📂components
- ┃ ┣ 📂common
- ┃ ┣ 📂icons
- ┃ ┗ 📂providers
- ┣ 📂hooks
- ┃ ┣ 📂chat
- ┃ ┣ 📂comment
- ┃ ┣ 📂common
- ┃ ┣ 📂home
- ┃ ┣ 📂join
- ┃ ┣ 📂management
- ┃ ┣ 📂notifications
- ┃ ┣ 📂photo
- ┃ ┣ 📂post
- ┃ ┣ 📂schedule
- ┃ ┗ 📂user
- ┣ 📂lib
- ┃ ┗ 📂join
- ┣ 📂queries
- ┃ ┣ 📂chat
- ┃ ┣ 📂group
- ┃ ┃ ┗ 📂comments
- ┃ ┣ 📂home
- ┃ ┣ 📂join
- ┃ ┣ 📂management
- ┃ ┣ 📂notifications
- ┃ ┣ 📂photo
- ┃ ┣ 📂post
- ┃ ┣ 📂schedule
- ┃ ┗ 📂users
- ┣ 📂stores
- ┣ 📂types
- ┗ 📂utils
-   ┗ 📂supabase
-```
